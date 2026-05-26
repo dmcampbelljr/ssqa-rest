@@ -6,4 +6,4 @@ Sunday School Questions and Answers Rest Service
 
 1. Provides RESTful services for Sunday School Questions and Answers.
 2. Uses Spring Boot.
-3. 
+3. Uses Java.
